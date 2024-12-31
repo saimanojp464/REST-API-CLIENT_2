@@ -15,4 +15,4 @@
 # ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
 
 # OUTPUT OF THE TASK
-
+![Untitled2](https://github.com/user-attachments/assets/45f95544-56c3-4301-8874-3081d8abaeae)
